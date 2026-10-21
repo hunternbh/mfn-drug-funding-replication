@@ -1,0 +1,3 @@
+outcome,pre_gap,post_gap,DiD,SDID,single_donor_weight,pre_months,post_months,causal_country_CI
+aggregate,0.9916666666666667,0.625,-0.3666666666666667,-0.36666666666666675,1.0,60,12,Not estimable from country jackknife with one donor
+exposure,0.10603798213980976,0.022240944014747095,-0.08379703812506267,-0.08379703812506265,1.0,60,12,Not estimable from country jackknife with one donor

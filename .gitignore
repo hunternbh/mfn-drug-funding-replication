@@ -1,0 +1,10 @@
+build/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+raw/
+scraped/
+source_archives/
+private/
+*.env

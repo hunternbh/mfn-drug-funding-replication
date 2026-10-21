@@ -1,0 +1,57 @@
+{
+  "status": "passed",
+  "paper": "U.S. most-favored-nation pricing and foreign drug funding",
+  "SSRN": "https://ssrn.com/abstract=7652061",
+  "doi": "10.2139/ssrn.7652061",
+  "python": "3.12.14",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "input_level": "Final aggregate country-period, country-month, and regression cross-product tables; no source microdata",
+  "labelled_specifications": 2688,
+  "distinct_specifications": 2100,
+  "original_age_family_distinct": 300,
+  "original_age_family_negative": 288,
+  "all_distinct_negative_fraction": 0.94,
+  "alternative_specification_maximum_errors": {
+    "estimate": 2.7755575615628914e-16,
+    "CR1_SE": 1.6653345369377348e-16,
+    "CR1_lower95": 4.440892098500626e-16,
+    "CR1_upper95": 3.885780586188048e-16,
+    "CR2_SE": 1.6653345369377348e-16,
+    "CR2_lower95": 8.881784197001252e-16,
+    "CR2_upper95": 4.440892098500626e-16,
+    "CR2_p": 8.881784197001252e-16
+  },
+  "main_and_historical_regressions": 107,
+  "approval_cohort_regressions": 3,
+  "regression_moment_maximum_errors": {
+    "estimate": 6.394884621840902e-13,
+    "cluster_SE": 1.1546319456101628e-13,
+    "lower95": 6.252776074688882e-13,
+    "upper95": 6.252776074688882e-13
+  },
+  "calendar_comparisons": 20,
+  "projection_tables": [
+    {
+      "table": "all_controlled_projection_results.csv",
+      "rows": 8
+    },
+    {
+      "table": "prepolicy_projection_validation.csv",
+      "rows": 24
+    },
+    {
+      "table": "five_year_observed_DiD.csv",
+      "rows": 2
+    },
+    {
+      "table": "annual_block_prediction_sensitivity.csv",
+      "rows": 2
+    },
+    {
+      "table": "leave_one_preyear_out.csv",
+      "rows": 10
+    }
+  ],
+  "source_downloads_during_replication": false,
+  "source_archives_or_medicine_records_in_package": false
+}

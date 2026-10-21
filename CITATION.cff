@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "Please cite the associated SSRN paper when using these replication materials."
+title: "U.S. most-favored-nation pricing and foreign drug funding"
+type: software
+version: 2.0.0
+date-released: '2026-10-21'
+url: "https://github.com/hunternbh/mfn-drug-funding-replication"
+authors:
+  - family-names: Ng
+    given-names: Hunter
+  - family-names: Chang
+    given-names: Shou-Ming
+  - family-names: Lin
+    given-names: Yung-Cheng
+preferred-citation:
+  type: report
+  title: "U.S. most-favored-nation pricing and foreign drug funding"
+  year: 2026
+  date-published: '2026-10-21'
+  institution:
+    name: SSRN
+  number: '7652061'
+  doi: '10.2139/ssrn.7652061'
+  url: 'https://ssrn.com/abstract=7652061'
+  authors:
+    - family-names: Ng
+      given-names: Hunter
+    - family-names: Chang
+      given-names: Shou-Ming
+    - family-names: Lin
+      given-names: Yung-Cheng

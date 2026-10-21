@@ -1,0 +1,108 @@
+model_id,family,label,N,parameters,rank,target_column,country_clusters
+R0001,main_six_country,Main six-country FDA-age balance,240,46,46,1,6
+R0002,main_six_country,Main six-country aggregate: common 361 medicines,240,46,46,1,6
+R0003,main_six_country,Main six-country Uniform matched medicines,240,46,46,1,6
+R0004,main_six_country,Main six-country Entropy-balanced drug characteristics,240,46,46,1,6
+R0005,main_six_country,Fixed oncology subset,240,46,46,1,6
+R0006,main_six_country,Leave out Australia,200,45,45,1,5
+R0007,main_six_country,Leave out Switzerland,200,45,45,1,5
+R0008,main_six_country,Leave out United Kingdom,200,45,45,1,5
+R0009,main_six_country,Leave out Brazil,200,45,45,1,5
+R0010,main_six_country,Leave out Hong Kong SAR,200,45,45,1,5
+R0011,main_six_country,Leave out Singapore,200,45,45,1,5
+R0012,main_six_country,History/scope case 01,240,46,46,1,6
+R0013,main_six_country,History/scope case 02,240,46,46,1,6
+R0014,main_six_country,History/scope case 03,240,46,46,1,6
+R0015,main_six_country,History/scope case 04,240,46,46,1,6
+R0016,main_six_country,History/scope case 05,240,46,46,1,6
+R0017,main_six_country,History/scope case 06,240,46,46,1,6
+R0018,main_six_country,History/scope case 07,240,46,46,1,6
+R0019,main_six_country,History/scope case 08,240,46,46,1,6
+R0020,main_six_country,Original five-country FDA-age balance,200,45,45,1,5
+R0021,aggregate_historical,"Primary: June2025–May2026, omit May2025",200,45,45,44,5
+R0022,aggregate_historical,Include mixed May 2025,205,46,46,45,5
+R0023,aggregate_historical,Country-specific linear trends,200,49,49,44,5
+R0024,aggregate_historical,Log(1 + recorded entries),200,45,45,44,5
+R0025,aggregate_historical,Asinh recorded entries,200,45,45,44,5
+R0026,aggregate_historical,Country baseline normalised to 100,200,45,45,44,5
+R0027,aggregate_historical,Early response: June–August 2025,155,36,36,35,5
+R0028,aggregate_historical,Include January 2022 baseline,260,57,57,56,5
+R0029,aggregate_historical,FDA cohort approved by 2019,200,45,45,44,5
+R0030,aggregate_historical,FDA cohort approved 2015–April2025,200,45,45,44,5
+R0031,aggregate_historical,Exclude clinical-combination-only HK entries,200,45,45,44,5
+R0032,aggregate_historical,Historical placebo: June–December 2024,115,28,28,27,5
+R0033,aggregate_historical,Leave out Brazil,160,44,44,43,4
+R0034,aggregate_historical,Leave out Hong Kong SAR,160,44,44,43,4
+R0035,aggregate_historical,Leave out Singapore,160,44,44,43,4
+R0036,aggregate_historical,Australia as sole OECD market,160,44,44,43,4
+R0037,aggregate_historical,Switzerland as sole OECD market,160,44,44,43,4
+R0038,aggregate_historical,Quarterly: omit announcement and incomplete final quarters,60,17,17,16,5
+R0039,exposure_historical,Frozen-primary replication,200,45,45,44,5
+R0040,exposure_historical,Exploratory primary: high-minus-low spending triple difference,200,45,45,44,5
+R0041,exposure_historical,High-spending medicines DiD,200,45,45,44,5
+R0042,exposure_historical,Low-spending medicines DiD,200,45,45,44,5
+R0043,exposure_historical,All spending-matched medicines DiD,200,45,45,44,5
+R0044,exposure_historical,2024 placebo: high-minus-low spending triple difference,115,28,28,27,5
+R0045,exposure_historical,High-minus-low spending raw-count triple difference,200,45,45,44,5
+R0046,exposure_historical,Exposure DDD: omit Australia,160,44,44,43,4
+R0047,exposure_historical,Exposure DDD: omit Switzerland,160,44,44,43,4
+R0048,exposure_historical,Exposure DDD: omit Brazil,160,44,44,43,4
+R0049,exposure_historical,Exposure DDD: omit Hong Kong SAR,160,44,44,43,4
+R0050,exposure_historical,Exposure DDD: omit Singapore,160,44,44,43,4
+R0051,exposure_historical,Exposure DDD: country-specific linear trends,200,49,49,48,5
+R0052,exposure_historical,Exposure DDD: common FDA-approval-age composition,200,45,45,44,5
+R0053,historical_country_weights,Aggregate entries | Equal countries,200,45,45,44,5
+R0054,historical_country_weights,Aggregate entries | Nearest preperiod country,120,43,43,42,3
+R0055,historical_country_weights,Aggregate entries | Preperiod synthetic mixture,200,45,45,44,5
+R0056,historical_country_weights,Uniform matched medicines | Equal countries,200,45,45,44,5
+R0057,historical_country_weights,Uniform matched medicines | Nearest preperiod country,160,44,44,43,4
+R0058,historical_country_weights,Uniform matched medicines | Preperiod synthetic mixture,120,43,43,42,3
+R0059,historical_country_weights,Approval-age poststratification | Equal countries,200,45,45,44,5
+R0060,historical_country_weights,Approval-age poststratification | Nearest preperiod country,120,43,43,42,3
+R0061,historical_country_weights,Approval-age poststratification | Preperiod synthetic mixture,200,45,45,44,5
+R0062,historical_country_weights,Entropy-balanced drug characteristics | Equal countries,200,45,45,44,5
+R0063,historical_country_weights,Entropy-balanced drug characteristics | Nearest preperiod country,120,43,43,42,3
+R0064,historical_country_weights,Entropy-balanced drug characteristics | Preperiod synthetic mixture,160,44,44,43,4
+R0065,historical_age_checks,Age-balanced: five-country full-year baseline,200,45,45,44,5
+R0066,historical_age_checks,Age-balanced: omit Australia,160,44,44,43,4
+R0067,historical_age_checks,Age-balanced: omit Switzerland,160,44,44,43,4
+R0068,historical_age_checks,Age-balanced: omit Brazil,160,44,44,43,4
+R0069,historical_age_checks,Age-balanced: omit Hong Kong SAR,160,44,44,43,4
+R0070,historical_age_checks,Age-balanced: omit Singapore,160,44,44,43,4
+R0071,historical_age_checks,Age-balanced: country-specific linear trends,200,49,49,48,5
+R0072,historical_age_checks,Age-balanced: original seven-month horizon,175,40,40,39,5
+R0073,historical_age_checks,Age-balanced: omit last two months,190,43,43,42,5
+R0074,historical_age_checks,Age-balanced: exclude four indexed-only HK entries,200,45,45,44,5
+R0075,historical_age_checks,Age-balanced: June2024 placebo,115,28,28,27,5
+R0076,historical_age_checks,Six-country OECD-membership aggregate; NZ added,240,46,46,45,6
+R0077,historical_age_checks,Six-country OECD-membership age-balanced contrast; NZ added,240,46,46,45,6
+R0078,extension_checks,Aggregate: Full-year,200,45,45,44,5
+R0079,extension_checks,Aggregate: Original seven-month horizon,175,40,40,39,5
+R0080,extension_checks,Aggregate: Exclude indexed-only SF clauses,200,45,45,44,5
+R0081,extension_checks,Aggregate: Exclude Hong Kong,160,44,44,43,4
+R0082,extension_checks,Aggregate: Exclude last two observed months,190,43,43,42,5
+R0083,extension_checks,Exposure: Full-year,200,45,45,44,5
+R0084,extension_checks,Exposure: Original seven-month horizon,175,40,40,39,5
+R0085,extension_checks,Exposure: Exclude indexed-only SF clauses,200,45,45,44,5
+R0086,extension_checks,Exposure: Exclude Hong Kong,160,44,44,43,4
+R0087,extension_checks,Exposure: Exclude last two observed months,190,43,43,42,5
+R0088,extension_checks,"Aggregate | OECD=Australia,Brazil",200,45,45,44,5
+R0089,extension_checks,"Exposure | OECD=Australia,Brazil",200,45,45,44,5
+R0090,extension_checks,"Aggregate | OECD=Australia,Hong Kong SAR",200,45,45,44,5
+R0091,extension_checks,"Exposure | OECD=Australia,Hong Kong SAR",200,45,45,44,5
+R0092,extension_checks,"Aggregate | OECD=Australia,Singapore",200,45,45,44,5
+R0093,extension_checks,"Exposure | OECD=Australia,Singapore",200,45,45,44,5
+R0094,extension_checks,"Aggregate | OECD=Australia,Switzerland",200,45,45,44,5
+R0095,extension_checks,"Exposure | OECD=Australia,Switzerland",200,45,45,44,5
+R0096,extension_checks,"Aggregate | OECD=Brazil,Hong Kong SAR",200,45,45,44,5
+R0097,extension_checks,"Exposure | OECD=Brazil,Hong Kong SAR",200,45,45,44,5
+R0098,extension_checks,"Aggregate | OECD=Brazil,Singapore",200,45,45,44,5
+R0099,extension_checks,"Exposure | OECD=Brazil,Singapore",200,45,45,44,5
+R0100,extension_checks,"Aggregate | OECD=Brazil,Switzerland",200,45,45,44,5
+R0101,extension_checks,"Exposure | OECD=Brazil,Switzerland",200,45,45,44,5
+R0102,extension_checks,"Aggregate | OECD=Hong Kong SAR,Singapore",200,45,45,44,5
+R0103,extension_checks,"Exposure | OECD=Hong Kong SAR,Singapore",200,45,45,44,5
+R0104,extension_checks,"Aggregate | OECD=Hong Kong SAR,Switzerland",200,45,45,44,5
+R0105,extension_checks,"Exposure | OECD=Hong Kong SAR,Switzerland",200,45,45,44,5
+R0106,extension_checks,"Aggregate | OECD=Singapore,Switzerland",200,45,45,44,5
+R0107,extension_checks,"Exposure | OECD=Singapore,Switzerland",200,45,45,44,5

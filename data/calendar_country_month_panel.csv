@@ -1,0 +1,493 @@
+country,month,aggregate,High,Low,exposure,endpoint,OECD,announcement_month_omitted
+Australia,2023-01-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,earliest_admissible,True,False
+Australia,2023-02-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,earliest_admissible,True,False
+Australia,2023-03-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+Australia,2023-04-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+Australia,2023-05-01,1.0,0.80915585362297,0.0,0.80915585362297,earliest_admissible,True,False
+Australia,2023-06-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+Australia,2023-07-01,2.0,1.29223132149676,0.0,1.29223132149676,earliest_admissible,True,False
+Australia,2023-08-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,earliest_admissible,True,False
+Australia,2023-09-01,1.0,0.48307546787378997,0.0,0.48307546787378997,earliest_admissible,True,False
+Australia,2023-10-01,2.0,0.80915585362297,0.42120441695441996,0.3879514366685501,earliest_admissible,True,False
+Australia,2023-11-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+Australia,2023-12-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+Australia,2024-01-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+Australia,2024-02-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+Australia,2024-03-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+Australia,2024-04-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,earliest_admissible,True,False
+Australia,2024-05-01,2.0,1.29223132149676,0.0,1.29223132149676,earliest_admissible,True,False
+Australia,2024-06-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+Australia,2024-07-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,earliest_admissible,True,False
+Australia,2024-08-01,3.0,0.48307546787378997,1.07058455409623,-0.5875090862224399,earliest_admissible,True,False
+Australia,2024-09-01,1.0,0.48307546787378997,0.0,0.48307546787378997,earliest_admissible,True,False
+Australia,2024-10-01,1.0,0.80915585362297,0.0,0.80915585362297,earliest_admissible,True,False
+Australia,2024-11-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+Australia,2024-12-01,1.0,0.80915585362297,0.0,0.80915585362297,earliest_admissible,True,False
+Australia,2025-01-01,1.0,0.0,0.64938013714181,-0.64938013714181,earliest_admissible,True,False
+Australia,2025-02-01,1.0,0.80915585362297,0.0,0.80915585362297,earliest_admissible,True,False
+Australia,2025-03-01,1.0,0.80915585362297,0.0,0.80915585362297,earliest_admissible,True,False
+Australia,2025-04-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,earliest_admissible,True,False
+Australia,2025-05-01,4.0,2.10421153014226,0.64938013714181,1.4548313930004502,earliest_admissible,True,True
+Australia,2025-06-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+Australia,2025-07-01,2.0,1.29223132149676,0.0,1.29223132149676,earliest_admissible,True,False
+Australia,2025-08-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+Australia,2025-09-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+Australia,2025-10-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,earliest_admissible,True,False
+Australia,2025-11-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+Australia,2025-12-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+Australia,2026-01-01,2.0,0.0,0.8424088339088399,-0.8424088339088399,earliest_admissible,True,False
+Australia,2026-02-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+Australia,2026-03-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+Australia,2026-04-01,2.0,0.48307546787378997,0.64938013714181,-0.16630466926802,earliest_admissible,True,False
+Australia,2026-05-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,earliest_admissible,True,False
+Switzerland,2023-01-01,2.0,0.80915585362297,0.64938013714181,0.15977571648116007,earliest_admissible,True,False
+Switzerland,2023-02-01,1.0,0.80915585362297,0.0,0.80915585362297,earliest_admissible,True,False
+Switzerland,2023-03-01,3.0,1.29505567651929,0.42120441695441996,0.8738512595648701,earliest_admissible,True,False
+Switzerland,2023-04-01,3.0,0.48307546787378997,1.29372555446085,-0.81065008658706,earliest_admissible,True,False
+Switzerland,2023-05-01,1.0,0.0,0.64938013714181,-0.64938013714181,earliest_admissible,True,False
+Switzerland,2023-06-01,3.0,1.29223132149676,0.42120441695441996,0.87102690454234,earliest_admissible,True,False
+Switzerland,2023-07-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,earliest_admissible,True,False
+Switzerland,2023-08-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+Switzerland,2023-09-01,2.0,0.0,0.8424088339088399,-0.8424088339088399,earliest_admissible,True,False
+Switzerland,2023-10-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+Switzerland,2023-11-01,1.0,0.0,0.64938013714181,-0.64938013714181,earliest_admissible,True,False
+Switzerland,2023-12-01,1.0,0.80915585362297,0.0,0.80915585362297,earliest_admissible,True,False
+Switzerland,2024-01-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+Switzerland,2024-02-01,2.0,0.80915585362297,0.42120441695441996,0.3879514366685501,earliest_admissible,True,False
+Switzerland,2024-03-01,1.0,0.80915585362297,0.0,0.80915585362297,earliest_admissible,True,False
+Switzerland,2024-04-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,earliest_admissible,True,False
+Switzerland,2024-05-01,1.0,0.80915585362297,0.0,0.80915585362297,earliest_admissible,True,False
+Switzerland,2024-06-01,1.0,0.80915585362297,0.0,0.80915585362297,earliest_admissible,True,False
+Switzerland,2024-07-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+Switzerland,2024-08-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+Switzerland,2024-09-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+Switzerland,2024-10-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,earliest_admissible,True,False
+Switzerland,2024-11-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,earliest_admissible,True,False
+Switzerland,2024-12-01,1.0,0.80915585362297,0.0,0.80915585362297,earliest_admissible,True,False
+Switzerland,2025-01-01,4.0,0.80915585362297,1.4917889710506498,-0.6826331174276798,earliest_admissible,True,False
+Switzerland,2025-02-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+Switzerland,2025-03-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,earliest_admissible,True,False
+Switzerland,2025-04-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+Switzerland,2025-05-01,4.0,1.29223132149676,0.8424088339088399,0.44982248758792015,earliest_admissible,True,True
+Switzerland,2025-06-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+Switzerland,2025-07-01,2.0,0.0,1.07058455409623,-1.07058455409623,earliest_admissible,True,False
+Switzerland,2025-08-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+Switzerland,2025-09-01,2.0,1.29223132149676,0.0,1.29223132149676,earliest_admissible,True,False
+Switzerland,2025-10-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+Switzerland,2025-11-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,earliest_admissible,True,False
+Switzerland,2025-12-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+Switzerland,2026-01-01,1.0,0.80915585362297,0.0,0.80915585362297,earliest_admissible,True,False
+Switzerland,2026-02-01,1.0,0.48307546787378997,0.0,0.48307546787378997,earliest_admissible,True,False
+Switzerland,2026-03-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+Switzerland,2026-04-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+Switzerland,2026-05-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+United Kingdom,2023-01-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+United Kingdom,2023-02-01,2.0,0.80915585362297,0.42120441695441996,0.3879514366685501,earliest_admissible,True,False
+United Kingdom,2023-03-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+United Kingdom,2023-04-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,earliest_admissible,True,False
+United Kingdom,2023-05-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+United Kingdom,2023-06-01,1.0,0.48307546787378997,0.0,0.48307546787378997,earliest_admissible,True,False
+United Kingdom,2023-07-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+United Kingdom,2023-08-01,3.0,1.61831170724594,0.42120441695441996,1.19710729029152,earliest_admissible,True,False
+United Kingdom,2023-09-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+United Kingdom,2023-10-01,6.0,3.23662341449188,0.8424088339088399,2.39421458058304,earliest_admissible,True,False
+United Kingdom,2023-11-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+United Kingdom,2023-12-01,5.0,2.58446264299352,0.42120441695441996,2.1632582260391002,earliest_admissible,True,False
+United Kingdom,2024-01-01,1.0,0.0,0.64938013714181,-0.64938013714181,earliest_admissible,True,False
+United Kingdom,2024-02-01,2.0,0.48307546787378997,0.42120441695441996,0.06187105091937001,earliest_admissible,True,False
+United Kingdom,2024-03-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,earliest_admissible,True,False
+United Kingdom,2024-04-01,2.0,0.0,0.8424088339088399,-0.8424088339088399,earliest_admissible,True,False
+United Kingdom,2024-05-01,1.0,0.48307546787378997,0.0,0.48307546787378997,earliest_admissible,True,False
+United Kingdom,2024-06-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+United Kingdom,2024-07-01,2.0,0.80915585362297,0.42120441695441996,0.3879514366685501,earliest_admissible,True,False
+United Kingdom,2024-08-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+United Kingdom,2024-09-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,earliest_admissible,True,False
+United Kingdom,2024-10-01,3.0,1.61831170724594,0.42120441695441996,1.19710729029152,earliest_admissible,True,False
+United Kingdom,2024-11-01,2.0,0.48307546787378997,0.42120441695441996,0.06187105091937001,earliest_admissible,True,False
+United Kingdom,2024-12-01,2.0,0.80915585362297,0.42120441695441996,0.3879514366685501,earliest_admissible,True,False
+United Kingdom,2025-01-01,1.0,0.0,0.64938013714181,-0.64938013714181,earliest_admissible,True,False
+United Kingdom,2025-02-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,earliest_admissible,True,False
+United Kingdom,2025-03-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,earliest_admissible,True,False
+United Kingdom,2025-04-01,2.0,0.0,1.07058455409623,-1.07058455409623,earliest_admissible,True,False
+United Kingdom,2025-05-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,earliest_admissible,True,True
+United Kingdom,2025-06-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+United Kingdom,2025-07-01,3.0,0.0,1.4917889710506498,-1.4917889710506498,earliest_admissible,True,False
+United Kingdom,2025-08-01,1.0,0.0,0.64938013714181,-0.64938013714181,earliest_admissible,True,False
+United Kingdom,2025-09-01,2.0,0.0,0.8424088339088399,-0.8424088339088399,earliest_admissible,True,False
+United Kingdom,2025-10-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+United Kingdom,2025-11-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+United Kingdom,2025-12-01,2.0,0.80915585362297,0.42120441695441996,0.3879514366685501,earliest_admissible,True,False
+United Kingdom,2026-01-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+United Kingdom,2026-02-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+United Kingdom,2026-03-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+United Kingdom,2026-04-01,3.0,0.80915585362297,0.8424088339088399,-0.03325298028586987,earliest_admissible,True,False
+United Kingdom,2026-05-01,0.0,0.0,0.0,0.0,earliest_admissible,True,False
+Brazil,2023-01-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2023-02-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2023-03-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2023-04-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2023-05-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2023-06-01,1.0,0.80915585362297,0.0,0.80915585362297,earliest_admissible,False,False
+Brazil,2023-07-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2023-08-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2023-09-01,1.0,0.48307546787378997,0.0,0.48307546787378997,earliest_admissible,False,False
+Brazil,2023-10-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2023-11-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2023-12-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2024-01-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2024-02-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2024-03-01,1.0,0.0,0.64938013714181,-0.64938013714181,earliest_admissible,False,False
+Brazil,2024-04-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2024-05-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2024-06-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2024-07-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2024-08-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2024-09-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2024-10-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2024-11-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2024-12-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2025-01-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2025-02-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2025-03-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2025-04-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2025-05-01,0.0,0.0,0.0,0.0,earliest_admissible,False,True
+Brazil,2025-06-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2025-07-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2025-08-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2025-09-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2025-10-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2025-11-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2025-12-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2026-01-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2026-02-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2026-03-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2026-04-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Brazil,2026-05-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Hong Kong SAR,2023-01-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Hong Kong SAR,2023-02-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Hong Kong SAR,2023-03-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Hong Kong SAR,2023-04-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Hong Kong SAR,2023-05-01,3.0,0.9661509357475799,0.64938013714181,0.31677079860576995,earliest_admissible,False,False
+Hong Kong SAR,2023-06-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Hong Kong SAR,2023-07-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Hong Kong SAR,2023-08-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Hong Kong SAR,2023-09-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Hong Kong SAR,2023-10-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Hong Kong SAR,2023-11-01,1.0,0.48307546787378997,0.0,0.48307546787378997,earliest_admissible,False,False
+Hong Kong SAR,2023-12-01,5.0,1.44922640362137,1.07058455409623,0.37864184952513996,earliest_admissible,False,False
+Hong Kong SAR,2024-01-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Hong Kong SAR,2024-02-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Hong Kong SAR,2024-03-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Hong Kong SAR,2024-04-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Hong Kong SAR,2024-05-01,5.0,0.48307546787378997,1.6848176678176798,-1.2017421999438898,earliest_admissible,False,False
+Hong Kong SAR,2024-06-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Hong Kong SAR,2024-07-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Hong Kong SAR,2024-08-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Hong Kong SAR,2024-09-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Hong Kong SAR,2024-10-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Hong Kong SAR,2024-11-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Hong Kong SAR,2024-12-01,2.0,0.0,1.29876027428362,-1.29876027428362,earliest_admissible,False,False
+Hong Kong SAR,2025-01-01,1.0,0.0,0.6443454173190399,-0.6443454173190399,earliest_admissible,False,False
+Hong Kong SAR,2025-02-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Hong Kong SAR,2025-03-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Hong Kong SAR,2025-04-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Hong Kong SAR,2025-05-01,4.0,2.9105430287427003,0.0,2.9105430287427003,earliest_admissible,False,True
+Hong Kong SAR,2025-06-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Hong Kong SAR,2025-07-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Hong Kong SAR,2025-08-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Hong Kong SAR,2025-09-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Hong Kong SAR,2025-10-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Hong Kong SAR,2025-11-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Hong Kong SAR,2025-12-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Hong Kong SAR,2026-01-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Hong Kong SAR,2026-02-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Hong Kong SAR,2026-03-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Hong Kong SAR,2026-04-01,5.0,1.29223132149676,1.2636132508632598,0.028618070633500137,earliest_admissible,False,False
+Hong Kong SAR,2026-05-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Singapore,2023-01-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Singapore,2023-02-01,1.0,0.48589982289632,0.0,0.48589982289632,earliest_admissible,False,False
+Singapore,2023-03-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Singapore,2023-04-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Singapore,2023-05-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Singapore,2023-06-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Singapore,2023-07-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Singapore,2023-08-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Singapore,2023-09-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Singapore,2023-10-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Singapore,2023-11-01,1.0,0.48589982289632,0.0,0.48589982289632,earliest_admissible,False,False
+Singapore,2023-12-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Singapore,2024-01-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Singapore,2024-02-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Singapore,2024-03-01,4.0,0.48307546787378997,1.4917889710506498,-1.00871350317686,earliest_admissible,False,False
+Singapore,2024-04-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Singapore,2024-05-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Singapore,2024-06-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Singapore,2024-07-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Singapore,2024-08-01,3.0,1.29223132149676,0.6443454173190399,0.6478859041777201,earliest_admissible,False,False
+Singapore,2024-09-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Singapore,2024-10-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Singapore,2024-11-01,1.0,0.48307546787378997,0.0,0.48307546787378997,earliest_admissible,False,False
+Singapore,2024-12-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Singapore,2025-01-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Singapore,2025-02-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Singapore,2025-03-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Singapore,2025-04-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,earliest_admissible,False,False
+Singapore,2025-05-01,0.0,0.0,0.0,0.0,earliest_admissible,False,True
+Singapore,2025-06-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Singapore,2025-07-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Singapore,2025-08-01,2.0,0.80915585362297,0.42120441695441996,0.3879514366685501,earliest_admissible,False,False
+Singapore,2025-09-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Singapore,2025-10-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Singapore,2025-11-01,4.0,1.77813114439308,0.42120441695441996,1.35692672743866,earliest_admissible,False,False
+Singapore,2025-12-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Singapore,2026-01-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Singapore,2026-02-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Singapore,2026-03-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Singapore,2026-04-01,4.0,1.7753067893705499,0.42120441695441996,1.35410237241613,earliest_admissible,False,False
+Singapore,2026-05-01,0.0,0.0,0.0,0.0,earliest_admissible,False,False
+Australia,2023-01-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,latest_admissible,True,False
+Australia,2023-02-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,latest_admissible,True,False
+Australia,2023-03-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+Australia,2023-04-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+Australia,2023-05-01,1.0,0.80915585362297,0.0,0.80915585362297,latest_admissible,True,False
+Australia,2023-06-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+Australia,2023-07-01,2.0,1.29223132149676,0.0,1.29223132149676,latest_admissible,True,False
+Australia,2023-08-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,latest_admissible,True,False
+Australia,2023-09-01,1.0,0.48307546787378997,0.0,0.48307546787378997,latest_admissible,True,False
+Australia,2023-10-01,2.0,0.80915585362297,0.42120441695441996,0.3879514366685501,latest_admissible,True,False
+Australia,2023-11-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+Australia,2023-12-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+Australia,2024-01-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+Australia,2024-02-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+Australia,2024-03-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+Australia,2024-04-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,latest_admissible,True,False
+Australia,2024-05-01,2.0,1.29223132149676,0.0,1.29223132149676,latest_admissible,True,False
+Australia,2024-06-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+Australia,2024-07-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,latest_admissible,True,False
+Australia,2024-08-01,3.0,0.48307546787378997,1.07058455409623,-0.5875090862224399,latest_admissible,True,False
+Australia,2024-09-01,1.0,0.48307546787378997,0.0,0.48307546787378997,latest_admissible,True,False
+Australia,2024-10-01,1.0,0.80915585362297,0.0,0.80915585362297,latest_admissible,True,False
+Australia,2024-11-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+Australia,2024-12-01,1.0,0.80915585362297,0.0,0.80915585362297,latest_admissible,True,False
+Australia,2025-01-01,1.0,0.0,0.64938013714181,-0.64938013714181,latest_admissible,True,False
+Australia,2025-02-01,1.0,0.80915585362297,0.0,0.80915585362297,latest_admissible,True,False
+Australia,2025-03-01,1.0,0.80915585362297,0.0,0.80915585362297,latest_admissible,True,False
+Australia,2025-04-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,latest_admissible,True,False
+Australia,2025-05-01,4.0,2.10421153014226,0.64938013714181,1.4548313930004502,latest_admissible,True,True
+Australia,2025-06-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+Australia,2025-07-01,2.0,1.29223132149676,0.0,1.29223132149676,latest_admissible,True,False
+Australia,2025-08-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+Australia,2025-09-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+Australia,2025-10-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,latest_admissible,True,False
+Australia,2025-11-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+Australia,2025-12-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+Australia,2026-01-01,2.0,0.0,0.8424088339088399,-0.8424088339088399,latest_admissible,True,False
+Australia,2026-02-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+Australia,2026-03-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+Australia,2026-04-01,2.0,0.48307546787378997,0.64938013714181,-0.16630466926802,latest_admissible,True,False
+Australia,2026-05-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,latest_admissible,True,False
+Switzerland,2023-01-01,2.0,0.80915585362297,0.64938013714181,0.15977571648116007,latest_admissible,True,False
+Switzerland,2023-02-01,1.0,0.80915585362297,0.0,0.80915585362297,latest_admissible,True,False
+Switzerland,2023-03-01,3.0,1.29505567651929,0.42120441695441996,0.8738512595648701,latest_admissible,True,False
+Switzerland,2023-04-01,3.0,0.48307546787378997,1.29372555446085,-0.81065008658706,latest_admissible,True,False
+Switzerland,2023-05-01,1.0,0.0,0.64938013714181,-0.64938013714181,latest_admissible,True,False
+Switzerland,2023-06-01,3.0,1.29223132149676,0.42120441695441996,0.87102690454234,latest_admissible,True,False
+Switzerland,2023-07-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,latest_admissible,True,False
+Switzerland,2023-08-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+Switzerland,2023-09-01,2.0,0.0,0.8424088339088399,-0.8424088339088399,latest_admissible,True,False
+Switzerland,2023-10-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+Switzerland,2023-11-01,1.0,0.0,0.64938013714181,-0.64938013714181,latest_admissible,True,False
+Switzerland,2023-12-01,1.0,0.80915585362297,0.0,0.80915585362297,latest_admissible,True,False
+Switzerland,2024-01-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+Switzerland,2024-02-01,2.0,0.80915585362297,0.42120441695441996,0.3879514366685501,latest_admissible,True,False
+Switzerland,2024-03-01,1.0,0.80915585362297,0.0,0.80915585362297,latest_admissible,True,False
+Switzerland,2024-04-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,latest_admissible,True,False
+Switzerland,2024-05-01,1.0,0.80915585362297,0.0,0.80915585362297,latest_admissible,True,False
+Switzerland,2024-06-01,1.0,0.80915585362297,0.0,0.80915585362297,latest_admissible,True,False
+Switzerland,2024-07-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+Switzerland,2024-08-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+Switzerland,2024-09-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+Switzerland,2024-10-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,latest_admissible,True,False
+Switzerland,2024-11-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,latest_admissible,True,False
+Switzerland,2024-12-01,1.0,0.80915585362297,0.0,0.80915585362297,latest_admissible,True,False
+Switzerland,2025-01-01,4.0,0.80915585362297,1.4917889710506498,-0.6826331174276798,latest_admissible,True,False
+Switzerland,2025-02-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+Switzerland,2025-03-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,latest_admissible,True,False
+Switzerland,2025-04-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+Switzerland,2025-05-01,4.0,1.29223132149676,0.8424088339088399,0.44982248758792015,latest_admissible,True,True
+Switzerland,2025-06-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+Switzerland,2025-07-01,2.0,0.0,1.07058455409623,-1.07058455409623,latest_admissible,True,False
+Switzerland,2025-08-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+Switzerland,2025-09-01,2.0,1.29223132149676,0.0,1.29223132149676,latest_admissible,True,False
+Switzerland,2025-10-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+Switzerland,2025-11-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,latest_admissible,True,False
+Switzerland,2025-12-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+Switzerland,2026-01-01,1.0,0.80915585362297,0.0,0.80915585362297,latest_admissible,True,False
+Switzerland,2026-02-01,1.0,0.48307546787378997,0.0,0.48307546787378997,latest_admissible,True,False
+Switzerland,2026-03-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+Switzerland,2026-04-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+Switzerland,2026-05-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+United Kingdom,2023-01-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+United Kingdom,2023-02-01,2.0,0.80915585362297,0.42120441695441996,0.3879514366685501,latest_admissible,True,False
+United Kingdom,2023-03-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+United Kingdom,2023-04-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,latest_admissible,True,False
+United Kingdom,2023-05-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+United Kingdom,2023-06-01,1.0,0.48307546787378997,0.0,0.48307546787378997,latest_admissible,True,False
+United Kingdom,2023-07-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+United Kingdom,2023-08-01,2.0,1.61831170724594,0.0,1.61831170724594,latest_admissible,True,False
+United Kingdom,2023-09-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+United Kingdom,2023-10-01,6.0,3.23662341449188,0.8424088339088399,2.39421458058304,latest_admissible,True,False
+United Kingdom,2023-11-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+United Kingdom,2023-12-01,5.0,2.58446264299352,0.42120441695441996,2.1632582260391002,latest_admissible,True,False
+United Kingdom,2024-01-01,2.0,0.0,1.07058455409623,-1.07058455409623,latest_admissible,True,False
+United Kingdom,2024-02-01,2.0,0.48307546787378997,0.42120441695441996,0.06187105091937001,latest_admissible,True,False
+United Kingdom,2024-03-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,latest_admissible,True,False
+United Kingdom,2024-04-01,2.0,0.0,0.8424088339088399,-0.8424088339088399,latest_admissible,True,False
+United Kingdom,2024-05-01,1.0,0.48307546787378997,0.0,0.48307546787378997,latest_admissible,True,False
+United Kingdom,2024-06-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+United Kingdom,2024-07-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,latest_admissible,True,False
+United Kingdom,2024-08-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+United Kingdom,2024-09-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,latest_admissible,True,False
+United Kingdom,2024-10-01,4.0,2.42746756086891,0.42120441695441996,2.0062631439144902,latest_admissible,True,False
+United Kingdom,2024-11-01,2.0,0.48307546787378997,0.42120441695441996,0.06187105091937001,latest_admissible,True,False
+United Kingdom,2024-12-01,3.0,0.80915585362297,0.8424088339088399,-0.03325298028586987,latest_admissible,True,False
+United Kingdom,2025-01-01,1.0,0.0,0.64938013714181,-0.64938013714181,latest_admissible,True,False
+United Kingdom,2025-02-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,latest_admissible,True,False
+United Kingdom,2025-03-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,latest_admissible,True,False
+United Kingdom,2025-04-01,2.0,0.0,1.07058455409623,-1.07058455409623,latest_admissible,True,False
+United Kingdom,2025-05-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,latest_admissible,True,True
+United Kingdom,2025-06-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+United Kingdom,2025-07-01,3.0,0.0,1.4917889710506498,-1.4917889710506498,latest_admissible,True,False
+United Kingdom,2025-08-01,1.0,0.0,0.64938013714181,-0.64938013714181,latest_admissible,True,False
+United Kingdom,2025-09-01,2.0,0.0,0.8424088339088399,-0.8424088339088399,latest_admissible,True,False
+United Kingdom,2025-10-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+United Kingdom,2025-11-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+United Kingdom,2025-12-01,2.0,0.80915585362297,0.42120441695441996,0.3879514366685501,latest_admissible,True,False
+United Kingdom,2026-01-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+United Kingdom,2026-02-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+United Kingdom,2026-03-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+United Kingdom,2026-04-01,3.0,0.80915585362297,0.8424088339088399,-0.03325298028586987,latest_admissible,True,False
+United Kingdom,2026-05-01,0.0,0.0,0.0,0.0,latest_admissible,True,False
+Brazil,2023-01-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2023-02-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2023-03-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2023-04-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2023-05-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2023-06-01,1.0,0.80915585362297,0.0,0.80915585362297,latest_admissible,False,False
+Brazil,2023-07-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2023-08-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2023-09-01,1.0,0.48307546787378997,0.0,0.48307546787378997,latest_admissible,False,False
+Brazil,2023-10-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2023-11-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2023-12-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2024-01-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2024-02-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2024-03-01,1.0,0.0,0.64938013714181,-0.64938013714181,latest_admissible,False,False
+Brazil,2024-04-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2024-05-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2024-06-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2024-07-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2024-08-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2024-09-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2024-10-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2024-11-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2024-12-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2025-01-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2025-02-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2025-03-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2025-04-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2025-05-01,0.0,0.0,0.0,0.0,latest_admissible,False,True
+Brazil,2025-06-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2025-07-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2025-08-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2025-09-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2025-10-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2025-11-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2025-12-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2026-01-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2026-02-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2026-03-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2026-04-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Brazil,2026-05-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Hong Kong SAR,2023-01-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Hong Kong SAR,2023-02-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Hong Kong SAR,2023-03-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Hong Kong SAR,2023-04-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Hong Kong SAR,2023-05-01,3.0,0.9661509357475799,0.64938013714181,0.31677079860576995,latest_admissible,False,False
+Hong Kong SAR,2023-06-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Hong Kong SAR,2023-07-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Hong Kong SAR,2023-08-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Hong Kong SAR,2023-09-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Hong Kong SAR,2023-10-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Hong Kong SAR,2023-11-01,1.0,0.48307546787378997,0.0,0.48307546787378997,latest_admissible,False,False
+Hong Kong SAR,2023-12-01,5.0,1.44922640362137,1.07058455409623,0.37864184952513996,latest_admissible,False,False
+Hong Kong SAR,2024-01-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Hong Kong SAR,2024-02-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Hong Kong SAR,2024-03-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Hong Kong SAR,2024-04-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Hong Kong SAR,2024-05-01,5.0,0.48307546787378997,1.6848176678176798,-1.2017421999438898,latest_admissible,False,False
+Hong Kong SAR,2024-06-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Hong Kong SAR,2024-07-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Hong Kong SAR,2024-08-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Hong Kong SAR,2024-09-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Hong Kong SAR,2024-10-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Hong Kong SAR,2024-11-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Hong Kong SAR,2024-12-01,2.0,0.0,1.29876027428362,-1.29876027428362,latest_admissible,False,False
+Hong Kong SAR,2025-01-01,1.0,0.0,0.6443454173190399,-0.6443454173190399,latest_admissible,False,False
+Hong Kong SAR,2025-02-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Hong Kong SAR,2025-03-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Hong Kong SAR,2025-04-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Hong Kong SAR,2025-05-01,4.0,2.9105430287427003,0.0,2.9105430287427003,latest_admissible,False,True
+Hong Kong SAR,2025-06-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Hong Kong SAR,2025-07-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Hong Kong SAR,2025-08-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Hong Kong SAR,2025-09-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Hong Kong SAR,2025-10-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Hong Kong SAR,2025-11-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Hong Kong SAR,2025-12-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Hong Kong SAR,2026-01-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Hong Kong SAR,2026-02-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Hong Kong SAR,2026-03-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Hong Kong SAR,2026-04-01,5.0,1.29223132149676,1.2636132508632598,0.028618070633500137,latest_admissible,False,False
+Hong Kong SAR,2026-05-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Singapore,2023-01-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Singapore,2023-02-01,1.0,0.48589982289632,0.0,0.48589982289632,latest_admissible,False,False
+Singapore,2023-03-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Singapore,2023-04-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Singapore,2023-05-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Singapore,2023-06-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Singapore,2023-07-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Singapore,2023-08-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Singapore,2023-09-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Singapore,2023-10-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Singapore,2023-11-01,1.0,0.48589982289632,0.0,0.48589982289632,latest_admissible,False,False
+Singapore,2023-12-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Singapore,2024-01-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Singapore,2024-02-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Singapore,2024-03-01,4.0,0.48307546787378997,1.4917889710506498,-1.00871350317686,latest_admissible,False,False
+Singapore,2024-04-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Singapore,2024-05-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Singapore,2024-06-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Singapore,2024-07-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Singapore,2024-08-01,3.0,1.29223132149676,0.6443454173190399,0.6478859041777201,latest_admissible,False,False
+Singapore,2024-09-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Singapore,2024-10-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Singapore,2024-11-01,1.0,0.48307546787378997,0.0,0.48307546787378997,latest_admissible,False,False
+Singapore,2024-12-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Singapore,2025-01-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Singapore,2025-02-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Singapore,2025-03-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Singapore,2025-04-01,1.0,0.0,0.42120441695441996,-0.42120441695441996,latest_admissible,False,False
+Singapore,2025-05-01,0.0,0.0,0.0,0.0,latest_admissible,False,True
+Singapore,2025-06-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Singapore,2025-07-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Singapore,2025-08-01,2.0,0.80915585362297,0.42120441695441996,0.3879514366685501,latest_admissible,False,False
+Singapore,2025-09-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Singapore,2025-10-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Singapore,2025-11-01,4.0,1.77813114439308,0.42120441695441996,1.35692672743866,latest_admissible,False,False
+Singapore,2025-12-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Singapore,2026-01-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Singapore,2026-02-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Singapore,2026-03-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
+Singapore,2026-04-01,4.0,1.7753067893705499,0.42120441695441996,1.35410237241613,latest_admissible,False,False
+Singapore,2026-05-01,0.0,0.0,0.0,0.0,latest_admissible,False,False
